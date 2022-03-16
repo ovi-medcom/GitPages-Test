@@ -1,6 +1,6 @@
-title: MedCom Messaging
-logo: ../Medcom_logo_2015.png
-description: MedCom Messaging is your site for MedComs Messaging standards and profiles.
+title: MedCom Messaging Pages
+logo: /medcom-logo.png
+description: MedCom Messaging Pages is your site for MedComs standards and profiles.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
