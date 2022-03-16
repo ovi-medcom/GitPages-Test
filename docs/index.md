@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: pages
 ---
 
 ## MedCom Messaging is your site for MedComs Messaging standards and profiles
