@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: GitHub Pages test
+logo: /Medcom_logo_2015.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
