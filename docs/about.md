@@ -2,4 +2,6 @@ layout: page
 title: "About"
 permalink: /about/about
 
-*About*
+#About
+
+This is the about-page

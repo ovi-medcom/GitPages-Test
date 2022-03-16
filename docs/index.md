@@ -1,4 +1,4 @@
-## Welcome to OVI's GitHub Pages
+## MedCom Messaging is your site for MedComs Messaging standards and profiles
 
 [MedComFHIRDocumentation](https://github.com/ovi-medcom/GitPages-Test/blob/master/input/markdown/Home-MedComFHIRDocumentation.md)
 
