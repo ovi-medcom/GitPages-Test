@@ -3,4 +3,4 @@ logo: /medcom-logo.png
 description: MedCom Messaging Pages is your site for MedComs standards and profiles.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
