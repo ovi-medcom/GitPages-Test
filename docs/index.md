@@ -1,4 +1,8 @@
+layout: posts
+
 ## MedCom Messaging is your site for MedComs Messaging standards and profiles
+
+about.md
 
 [MedComFHIRDocumentation](https://github.com/ovi-medcom/GitPages-Test/blob/master/input/markdown/Home-MedComFHIRDocumentation.md)
 
